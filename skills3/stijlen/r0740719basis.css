@@ -1,0 +1,45 @@
+* {
+ padding: 0;
+ margin: 0;
+}
+body{
+    background-image: url(afbeeldingen/basis.jpg);
+    background-repeat: no-repeat;
+}
+h2,
+p {
+ padding: 10px 0px;
+color: blue;
+background-color: yellow;
+}
+#image {
+ height: 200px;
+background-image: url(afbeeldingen/basis.jpg);
+ background-position: center center;
+ background-repeat: no-repeat;
+}
+#container {
+ background-color: #fff;
+ color: #000;
+}
+nav a {
+ text-decoration: none;
+}
+nav a:hover {
+ text-decoration: underline;
+}
+footer {
+ text-align: right;
+ font-weight: bold;
+ padding: 10px;
+}
+#primair{
+    display: block;
+
+}
+#gaming{
+    display: none;
+}
+#luxe{
+    display: none;
+}

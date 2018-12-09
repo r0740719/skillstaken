@@ -1,0 +1,24 @@
+#primair{
+    display: none;
+
+}
+#gaming{
+    display: none;
+}
+#luxe{
+    display: block;
+}
+
+
+body{
+    background-image: url(afbeeldingen/groot.jpg)
+    
+}
+p{
+    background-color: white;
+    color: grey
+}
+h2{
+    background-color: grey;
+    color: black;
+}

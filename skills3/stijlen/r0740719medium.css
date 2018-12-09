@@ -1,0 +1,23 @@
+body{
+    background-image:url(afbeeldingen/medium.jpg);
+    background-repeat: repeat;
+  
+}
+#primair{
+    display: none;
+
+}
+#gaming{
+    display: block;
+}
+#luxe{
+    display: none;
+}
+p{
+    background-color: grey;
+    color: black;
+}
+h2{
+    color: red;
+    background-color: black;
+}

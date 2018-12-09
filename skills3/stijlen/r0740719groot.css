@@ -1,3 +1,5 @@
+
+    
 #primair{
     display: none;
 
@@ -10,10 +12,7 @@
 }
 
 
-body{
-    background-image: url(afbeeldingen/groot.jpg)
-    
-}
+
 p{
     background-color: white;
     color: grey
@@ -22,3 +21,9 @@ h2{
     background-color: grey;
     color: black;
 }
+#image {
+ height: 200px;
+background-image: url(afbeeldingen/groot.jpg);
+ background-position: center center;
+ background-repeat: no-repeat;
+    }

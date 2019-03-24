@@ -1,0 +1,11 @@
+.informatica {
+  font-size: 317.5px;
+  font-family: "Myriad Pro";
+  color: rgb(205, 75, 75);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 452.844px;
+  top: 897.5px;
+  z-index: 2;
+}
